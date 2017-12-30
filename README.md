@@ -25,3 +25,11 @@ Validation: https://www.dropbox.com/s/a0l7xxoc00cs83l/newnewval.t7?dl=0
 4. temp.txt : random output result file obtained using the validation dataset.
 
 5. test.png, trained_001_1.png : images for testing.
+
+
+************************************************* NETWORK DESCRIPTION **********************************************
+********************************************************************************************************************
+
+There are 62 categories: 0-9, A-Z, a-z => (10+26+26=62). 0=>1, 1=>2,.....9=>10,A=>11, B=>12 ..........Z=>36, a=>37,....z=>62.
+
+write some boring stuff about network zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
