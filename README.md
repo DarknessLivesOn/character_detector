@@ -1,7 +1,7 @@
 # character_detector
 Project to build a cnn based character detector model
 
-Disclaimer: It is a simple project done for learning CNN, So it sucks most of the time and no optimization of parameters are done. Lel
+Disclaimer: It is a simple project done for learning CNN, So it sucks most of the time and no optimization of parameters are done.
 
 ******************************************** REQUIREMENTS *******************************************************
 *****************************************************************************************************************
@@ -34,4 +34,3 @@ Validation: https://www.dropbox.com/s/a0l7xxoc00cs83l/newnewval.t7?dl=0
 
 There are 62 categories: 0-9, A-Z, a-z => (10+26+26=62). 0=>1, 1=>2,.....9=>10,A=>11, B=>12 ..........Z=>36, a=>37,....z=>62.
 
-write some boring stuff about network zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
