@@ -7,7 +7,9 @@ Disclaimer: It is a simple project done for learning CNN, So it sucks most of th
 *****************************************************************************************************************
 
 Installed torch: http://torch.ch/docs/getting-started.html
+
 Installed image package : $ luarocks install image
+
 Installed pretty-nn package : $ luarocks install pretty-nn
 
 
