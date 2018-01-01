@@ -63,7 +63,7 @@ elseif indices==24 then
     print('N')
 elseif indices==25 then
     print('O')
-elseif indices==126 then
+elseif indices==26 then
     print('P')
 elseif indices==27 then
     print('Q')
