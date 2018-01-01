@@ -19,7 +19,6 @@ Installed pretty-nn package : $ luarocks install pretty-nn
 1. conv.lua/conv_cuda.lua : Model description and Training is done using this file. Training dataset is originally taken from http://www.ee.surrey.ac.uk/CVSSP/demos/chars74k/. And it is then modified accordinaly, the one used for training and validation can be found here. 
 Training: https://www.dropbox.com/s/rt0brmr9vvre1ga/newnewtrain.t7?dl=0
 Validation: https://www.dropbox.com/s/a0l7xxoc00cs83l/newnewval.t7?dl=0
-
 conv_cuda.lua runs the network on gpu while conv.lua runs it on cpu.
 
 2. trained_net.pt/trained_net_cuda.pt: Already trained network. The cuda one uses 3 layer network.
