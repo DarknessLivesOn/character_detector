@@ -2,19 +2,19 @@
 Project to build a cnn based character detector model
 
 Disclaimer: It is a simple project done for learning CNN, So it sucks most of the time and no optimization of parameters are done.
-
-******************************************** REQUIREMENTS *******************************************************
 *****************************************************************************************************************
-
-Installed torch: http://torch.ch/docs/getting-started.html
-
-Installed image package : $ luarocks install image
-
-Installed pretty-nn package : $ luarocks install pretty-nn
+******************************************** REQUIREMENTS *******************************************************
 
 
-************************************************* FILES **********************************************************
+Install torch: http://torch.ch/docs/getting-started.html
+
+Install image package : $ luarocks install image
+
+Install pretty-nn package : $ luarocks install pretty-nn
+
 ******************************************************************************************************************
+************************************************* FILES **********************************************************
+
 
 1. conv.lua/conv_cuda.lua : Model description and Training is done using this file. Training dataset is originally taken from http://www.ee.surrey.ac.uk/CVSSP/demos/chars74k/. And it is then modified accordinaly, the one used for training and validation can be found here. 
 Training: https://www.dropbox.com/s/rt0brmr9vvre1ga/newnewtrain.t7?dl=0
